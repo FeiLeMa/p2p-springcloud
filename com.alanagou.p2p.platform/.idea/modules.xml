@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/com.alanagou.p2p.platform.iml" filepath="$PROJECT_DIR$/.idea/com.alanagou.p2p.platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.platform.config/com.alanagou.p2p.platform.config.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.platform.config/com.alanagou.p2p.platform.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.platform.mybatis-generate/com.alanagou.p2p.platform.mybatis-generate.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.platform.mybatis-generate/com.alanagou.p2p.platform.mybatis-generate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.platform.eureka/eureka-server.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.platform.eureka/eureka-server.iml" />
+    </modules>
+  </component>
+</project>

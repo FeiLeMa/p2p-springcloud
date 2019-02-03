@@ -13,6 +13,14 @@
     <modules>
         <module>module-test</module>
         <module>module-all-api</module>
+        <module>module-front</module>
     </modules>
+    <dependencies>
+        <dependency>
+            <groupId>com.alanagou.p2p</groupId>
+            <artifactId>business-core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>

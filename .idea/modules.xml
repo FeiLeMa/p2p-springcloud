@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/business-core.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/business-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/business-modules.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/business-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/business-parent.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/business-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/config-server.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.eureka/eureka-server.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.eureka/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-api/front-api.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-api/front-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-feign/front-feign.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-feign/front-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-server/front-server.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-server/front-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-all-api/module-all-api.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-all-api/module-all-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/module-front.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/module-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/module-test.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/module-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/p2pRefactoring.iml" filepath="$PROJECT_DIR$/.idea/p2pRefactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/test-api.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/test-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-feign/test-feign.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-feign/test-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/test-server.iml" filepath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/test-server.iml" />
+    </modules>
+  </component>
+</project>

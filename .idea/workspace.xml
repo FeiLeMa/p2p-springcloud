@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cb286a5-4780-413f-bb2e-646cfb685d87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/alanagou.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_60.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_60.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_11_0_201803080745_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_4_11_0_201803080745_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_4_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/p2pRefactoring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/redis/CacheInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/redis/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/redis/RedisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/business-core-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/business-core-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/classes/com/alanagou/p2p/business/core/common/constant/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/classes/com/alanagou/p2p/business/core/common/redis/CacheInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/classes/com/alanagou/p2p/business/core/common/redis/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/classes/com/alanagou/p2p/business/core/common/redis/RedisService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/classes/com/alanagou/p2p/business/core/common/response/ResponseCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/classes/com/alanagou/p2p/business/core/common/response/ServerResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/classes/com/alanagou/p2p/business/core/common/util/DateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-feign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-server/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/src/main/java/com/alanagou/p2p/business/modules/test/model/BidInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/src/main/java/com/alanagou/p2p/business/modules/test/model/FinanceAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/src/main/java/com/alanagou/p2p/business/modules/test/model/IncomeRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/src/main/java/com/alanagou/p2p/business/modules/test/model/LoanInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/src/main/java/com/alanagou/p2p/business/modules/test/model/RechargeRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/src/main/java/com/alanagou/p2p/business/modules/test/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/classes/com/alanagou/p2p/business/modules/test/model/BidInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/classes/com/alanagou/p2p/business/modules/test/model/FinanceAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/classes/com/alanagou/p2p/business/modules/test/model/IncomeRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/classes/com/alanagou/p2p/business/modules/test/model/LoanInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/classes/com/alanagou/p2p/business/modules/test/model/RechargeRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/classes/com/alanagou/p2p/business/modules/test/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/mapper/BidInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/mapper/FinanceAccountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/mapper/IncomeRecordMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/mapper/LoanInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/mapper/RechargeRecordMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/mybatis/mappers/BidInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/mybatis/mappers/FinanceAccountMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/mybatis/mappers/IncomeRecordMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/mybatis/mappers/LoanInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/mybatis/mappers/RechargeRecordMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/mybatis/mappers/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/test/mapper/BidInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/test/mapper/FinanceAccountMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/test/mapper/IncomeRecordMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/test/mapper/LoanInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/test/mapper/RechargeRecordMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/test/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/test/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/test/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/mybatis/mappers/BidInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/mybatis/mappers/FinanceAccountMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/mybatis/mappers/IncomeRecordMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/mybatis/mappers/LoanInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/mybatis/mappers/RechargeRecordMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/mybatis/mappers/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/com.alanagou.p2p.platform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/dictionaries/alanagou.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__joda_time_joda_time_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_60.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_60.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_11_0_201803080745_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_4_11_0_201803080745_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_spring_aop_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_spring_beans_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_spring_context_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_spring_core_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_spring_expression_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_spring_test_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_spring_web_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/java/com/alanagou/p2p/platform/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config/app-front-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config/app-public-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config/app-test-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/test/java/com/alanagou/p2p/platform/ConfigServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.mybatis-generate/com.alanagou.p2p.platform.mybatis-generate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.mybatis-generate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.mybatis-generate/src/main/resources/generator.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.mybatis-generate/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-all-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-all-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/src/main/java/com/alanagou/p2p/business/modules/test/api/ITestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/src/main/java/com/alanagou/p2p/business/modules/test/api/ITestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/classes/com/alanagou/p2p/business/modules/test/api/ITestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/classes/com/alanagou/p2p/business/modules/test/api/ITestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/test-api-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/test-api-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-feign/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-feign/target/classes/com/alanagou/p2p/business/modules/TestFeign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-feign/target/classes/com/alanagou/p2p/business/modules/test/feign/TestServiceFeign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/TestApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/TestApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/TestApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/test/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/classes/com/alanagou/p2p/business/modules/test/controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.business/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.business/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.eureka/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-server/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-feign/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-api/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-front/front-feign/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-all-api/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/target/" />
+    <ignored path="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.eureka/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2070527882">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="31" />
+          <entry key="properties" value="8" />
+          <entry key="xml" value="19" />
+          <entry key="yml" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="31" />
+          <entry key="Properties" value="8" />
+          <entry key="XML" value="19" />
+          <entry key="YAML" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="848" />
+          <entry key="properties" value="846" />
+          <entry key="xml" value="137" />
+          <entry key="yml" value="430" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="848" />
+          <entry key="Properties" value="846" />
+          <entry key="XML" value="137" />
+          <entry key="YAML" value="430" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config/app-test-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config/app-public-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring.datasource.druid.</find>
+      <find>解决redis插入中文乱码</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>welcome index</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/pom.xml" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config/app-druid-dev.yml" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/src/main/java/com/alanagou/p2p/business/modules/test/api/ITestController.java" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/redis/CacheInner.java" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/redis/RedisService.java" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config/app-public-dev.yml" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/redis/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/log4j.xml" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/druid/DruidConfig.java" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/TestApp.java" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/pom.xml" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config/app-test-dev.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Repository" />
+        <option name="mavenHome" value="/Library/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="/Library/apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="business-modules" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="business-modules" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>GPathGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.modules" type="462c0819:PsiDirectoryNode" />
+              <item name="module-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.modules" type="462c0819:PsiDirectoryNode" />
+              <item name="module-test" type="462c0819:PsiDirectoryNode" />
+              <item name="test-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.modules" type="462c0819:PsiDirectoryNode" />
+              <item name="module-test" type="462c0819:PsiDirectoryNode" />
+              <item name="test-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.modules" type="462c0819:PsiDirectoryNode" />
+              <item name="module-test" type="462c0819:PsiDirectoryNode" />
+              <item name="test-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.modules" type="462c0819:PsiDirectoryNode" />
+              <item name="module-test" type="462c0819:PsiDirectoryNode" />
+              <item name="test-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.modules" type="462c0819:PsiDirectoryNode" />
+              <item name="module-test" type="462c0819:PsiDirectoryNode" />
+              <item name="test-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.modules" type="462c0819:PsiDirectoryNode" />
+              <item name="module-test" type="462c0819:PsiDirectoryNode" />
+              <item name="test-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.business.modules" type="462c0819:PsiDirectoryNode" />
+              <item name="module-test" type="462c0819:PsiDirectoryNode" />
+              <item name="test-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform.config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform.config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform.config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform.config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform.config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p2pRefactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p2pRefactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform" type="462c0819:PsiDirectoryNode" />
+              <item name="com.alanagou.p2p.platform.config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549208265872" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/resources" />
+      <recent name="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/redis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/resources" />
+      <recent name="$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config" />
+      <recent name="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules" />
+      <recent name="$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TestApp">
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alanagou.p2p.platform.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alanagou.p2p.platform.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alanagou.p2p.platform.eureka.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alanagou.p2p.business.modules.TestApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFeign" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alanagou.p2p.business.modules.TestFeign" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.TestFeign" />
+      <item itemvalue="Spring Boot.TestApp" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cb286a5-4780-413f-bb2e-646cfb685d87" name="Default Changelist" comment="" />
+      <created>1549096567132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549096567132</updated>
+      <workItem from="1549096572124" duration="6767000" />
+      <workItem from="1549165316645" duration="437000" />
+      <workItem from="1549166086708" duration="3360000" />
+      <workItem from="1549171173753" duration="15254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25818000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="730" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41195476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4090909" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291536" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3291536" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3291536" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32875606" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32956383" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/java/com/alanagou/p2p/platform/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config/app-front-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/src/main/java/com/alanagou/p2p/business/modules/test/api/ITestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/redis/CacheInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/redis/RedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/redis/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/src/main/java/com/alanagou/p2p/business/core/common/druid/DruidConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/TestApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/java/com/alanagou/p2p/business/modules/test/mapper/LoanInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.business/com.alanagou.p2p.business.modules/module-test/test-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config/app-test-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.alanagou.p2p.platform/com.alanagou.p2p.platform.config/src/main/resources/config/app-public-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (test-server)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>module-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

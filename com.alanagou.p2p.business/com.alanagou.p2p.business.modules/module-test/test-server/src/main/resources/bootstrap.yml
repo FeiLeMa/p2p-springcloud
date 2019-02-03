@@ -1,9 +1,13 @@
-server:
-  port: 8081
 spring:
   application:
     name: app-test
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka
+  profiles:
+    active: dev
+  cloud:
+    config:
+      profile: dev
+      name: app-public,app-test
+      url: http://localhost:8888
+      fail-fast: true
+      username: admin
+      password: admin

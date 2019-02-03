@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="business-core" />
+        <module name="config-server" />
+        <module name="eureka-server" />
+        <module name="front-api" />
+        <module name="front-feign" />
+        <module name="front-server" />
+        <module name="module-all-api" />
+        <module name="test-api" />
+        <module name="test-feign" />
+        <module name="test-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="business-core" target="1.8" />
+      <module name="business-modules" target="1.8" />
+      <module name="business-parent" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="front-api" target="1.8" />
+      <module name="front-feign" target="1.8" />
+      <module name="front-server" target="1.8" />
+      <module name="module-all-api" target="1.8" />
+      <module name="module-front" target="1.8" />
+      <module name="module-test" target="1.8" />
+      <module name="test-api" target="1.8" />
+      <module name="test-feign" target="1.8" />
+      <module name="test-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
